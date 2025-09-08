@@ -72,20 +72,20 @@
 </main>
 
 <script>
-    // (function($) {
-    //     $("#btn-export").on("click", function() {
-    //         // 创建input标签
-    //         var $input = $('<input>', {
-    //             type: 'hidden',
-    //             name: 'action',
-    //             value: 'download_view_log_csv',
-    //             id: 'action_input'
-    //         });
+    (function($) {
+        $("#btn-export").on("click", function() {
+            // 创建input标签
+            var $input = $('<input>', {
+                type: 'hidden',
+                name: 'action',
+                value: 'download_view_log_csv',
+                id: 'action_input'
+            });
 
-    //         $(this).after($input);
-    //         $(this).parent('form').submit();
+            $(this).after($input);
+            $(this).parent('form').submit();
 
-    //         $("#action_input").remove();
-    //     })
-    // })(jQuery);
+            $("#action_input").remove();
+        })
+    })(jQuery);
 </script>
