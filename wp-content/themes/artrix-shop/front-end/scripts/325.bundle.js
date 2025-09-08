@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_shop=self.webpackChunkmy_shop||[]).push([[325],{325:(s,e,o)=>{function u(){console.log("Pod")}o.r(e),o.d(e,{default:()=>u})}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_shop=self.webpackChunkmy_shop||[]).push([[663],{663:(s,e,o)=>{function u(){console.log("cubox")}o.r(e),o.d(e,{default:()=>u})}}]);

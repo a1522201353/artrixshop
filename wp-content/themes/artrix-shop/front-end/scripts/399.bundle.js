@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_shop=self.webpackChunkmy_shop||[]).push([[399],{399:(s,e,o)=>{function u(){console.log("about")}o.r(e),o.d(e,{default:()=>u})}}]);

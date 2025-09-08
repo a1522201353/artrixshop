@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_shop=self.webpackChunkmy_shop||[]).push([[794],{794:(s,e,l)=>{function o(){console.log("Drillor")}l.r(e),l.d(e,{default:()=>o})}}]);

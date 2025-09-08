@@ -1,0 +1,93 @@
+{
+  "id": "5008986",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "45047521",
+      "name": "更多",
+      "font_class": "more",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "45047522",
+      "name": "菜单",
+      "font_class": "menu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "45047527",
+      "name": "分享",
+      "font_class": "share",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "45047529",
+      "name": "关闭",
+      "font_class": "delate",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "45047535",
+      "name": "箭头, 上",
+      "font_class": "top",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "45047537",
+      "name": "箭头, 右",
+      "font_class": "right",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "45047541",
+      "name": "返回",
+      "font_class": "left",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "45047543",
+      "name": "箭头, 下",
+      "font_class": "bottom",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "45047558",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "45048349",
+      "name": "账户",
+      "font_class": "user",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "45360288",
+      "name": "chevron-down",
+      "font_class": "chevron-down",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "45360290",
+      "name": "chevron-up",
+      "font_class": "chevron-up",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}

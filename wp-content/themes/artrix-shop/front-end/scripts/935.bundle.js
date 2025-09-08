@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_shop=self.webpackChunkmy_shop||[]).push([[935],{935:(s,e,o)=>{function u(){console.log("dabgo")}o.r(e),o.d(e,{default:()=>u})}}]);

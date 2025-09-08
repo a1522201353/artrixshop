@@ -1,0 +1,27 @@
+{
+    "name": "artrix/artrix-shop",
+    "description": "Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "artrix"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.6",
+        "zoujingli/ip2region": "^2.0",
+        "phpoffice/phpspreadsheet": "^5.0"
+    },
+    "require-dev": {
+        "dealerdirect/phpcodesniffer-composer-installer": "^1.1",
+        "wptrt/wpthemereview": "^0.2.1",
+        "php-parallel-lint/php-parallel-lint": "^1.4",
+        "wp-cli/i18n-command": "^2.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
